@@ -3,7 +3,7 @@ html {
     position:absolute;
     height: 100%;
     width: 100%;
-    background: linear-gradient(45deg,#bdc3c7, #2c3e50);
+    background: #97A3AE;
     font-family: 'Roboto', sans-serif;
 }
 h1{
@@ -13,22 +13,6 @@ h1{
 input:focus{
     outline: none;
 }
-/* button{
-    position:relative;
-    left: 50px;
-    top: 20px;
-
-    width: 220px;
-    height: 30px;
-
-    border: none;
-    border-radius: 5px;
-
-    font-size: 16px;
-}
-button:active{
-    background-color: rgb(154, 170, 185);
-} */
 form {
     display: block;
     width: 100%;
@@ -85,7 +69,7 @@ form {
     height: 260px;
     border-radius: 20px;
 
-    background: linear-gradient(45deg, rgba(217,217,217,1) 0%, rgba(195,206,218,1) 100%);
+    background: #DAE0E7;
     box-shadow: 0px 0px 20px   rgb(34, 50, 66);
 }
 .button {
